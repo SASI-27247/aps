@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/SASI-27247/aps/tree/master/0283-move-zeroes) |
 | [0496-next-greater-element-i](https://github.com/SASI-27247/aps/tree/master/0496-next-greater-element-i) |
 | [0622-design-circular-queue](https://github.com/SASI-27247/aps/tree/master/0622-design-circular-queue) |
+| [0641-design-circular-deque](https://github.com/SASI-27247/aps/tree/master/0641-design-circular-deque) |
 | [0735-asteroid-collision](https://github.com/SASI-27247/aps/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/SASI-27247/aps/tree/master/0739-daily-temperatures) |
 | [0946-validate-stack-sequences](https://github.com/SASI-27247/aps/tree/master/0946-validate-stack-sequences) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/SASI-27247/aps/tree/master/0239-sliding-window-maximum) |
 | [0387-first-unique-character-in-a-string](https://github.com/SASI-27247/aps/tree/master/0387-first-unique-character-in-a-string) |
 | [0622-design-circular-queue](https://github.com/SASI-27247/aps/tree/master/0622-design-circular-queue) |
+| [0641-design-circular-deque](https://github.com/SASI-27247/aps/tree/master/0641-design-circular-deque) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/SASI-27247/aps/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 ## Counting
 |  |
@@ -63,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/SASI-27247/aps/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/SASI-27247/aps/tree/master/0234-palindrome-linked-list) |
 | [0622-design-circular-queue](https://github.com/SASI-27247/aps/tree/master/0622-design-circular-queue) |
+| [0641-design-circular-deque](https://github.com/SASI-27247/aps/tree/master/0641-design-circular-deque) |
 | [0876-middle-of-the-linked-list](https://github.com/SASI-27247/aps/tree/master/0876-middle-of-the-linked-list) |
 ## Stack
 |  |
@@ -109,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/SASI-27247/aps/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/SASI-27247/aps/tree/master/0232-implement-queue-using-stacks) |
 | [0622-design-circular-queue](https://github.com/SASI-27247/aps/tree/master/0622-design-circular-queue) |
+| [0641-design-circular-deque](https://github.com/SASI-27247/aps/tree/master/0641-design-circular-deque) |
 ## Simulation
 |  |
 | ------- |
