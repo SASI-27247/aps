@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/SASI-27247/aps/tree/master/0283-move-zeroes) |
 | [0496-next-greater-element-i](https://github.com/SASI-27247/aps/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/SASI-27247/aps/tree/master/0739-daily-temperatures) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/SASI-27247/aps/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/SASI-27247/aps/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/SASI-27247/aps/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/SASI-27247/aps/tree/master/0739-daily-temperatures) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/SASI-27247/aps/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Recursion
 |  |
 | ------- |
@@ -82,4 +84,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0496-next-greater-element-i](https://github.com/SASI-27247/aps/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/SASI-27247/aps/tree/master/0739-daily-temperatures) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/SASI-27247/aps/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 <!---LeetCode Topics End-->
