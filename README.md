@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/SASI-27247/aps/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/SASI-27247/aps/tree/master/0283-move-zeroes) |
 | [0496-next-greater-element-i](https://github.com/SASI-27247/aps/tree/master/0496-next-greater-element-i) |
+| [0621-task-scheduler](https://github.com/SASI-27247/aps/tree/master/0621-task-scheduler) |
 | [0622-design-circular-queue](https://github.com/SASI-27247/aps/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/SASI-27247/aps/tree/master/0641-design-circular-deque) |
 | [0735-asteroid-collision](https://github.com/SASI-27247/aps/tree/master/0735-asteroid-collision) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/SASI-27247/aps/tree/master/0160-intersection-of-two-linked-lists) |
 | [0387-first-unique-character-in-a-string](https://github.com/SASI-27247/aps/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/SASI-27247/aps/tree/master/0496-next-greater-element-i) |
+| [0621-task-scheduler](https://github.com/SASI-27247/aps/tree/master/0621-task-scheduler) |
 ## String
 |  |
 | ------- |
@@ -45,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/SASI-27247/aps/tree/master/0387-first-unique-character-in-a-string) |
+| [0621-task-scheduler](https://github.com/SASI-27247/aps/tree/master/0621-task-scheduler) |
 ## Two Pointers
 |  |
 | ------- |
@@ -95,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/SASI-27247/aps/tree/master/0023-merge-k-sorted-lists) |
 | [0239-sliding-window-maximum](https://github.com/SASI-27247/aps/tree/master/0239-sliding-window-maximum) |
+| [0621-task-scheduler](https://github.com/SASI-27247/aps/tree/master/0621-task-scheduler) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/SASI-27247/aps/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 ## Merge Sort
 |  |
@@ -151,4 +155,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/SASI-27247/aps/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+## Greedy
+|  |
+| ------- |
+| [0621-task-scheduler](https://github.com/SASI-27247/aps/tree/master/0621-task-scheduler) |
+## Sorting
+|  |
+| ------- |
+| [0621-task-scheduler](https://github.com/SASI-27247/aps/tree/master/0621-task-scheduler) |
 <!---LeetCode Topics End-->
