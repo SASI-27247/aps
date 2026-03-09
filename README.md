@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/SASI-27247/aps/tree/master/0387-first-unique-character-in-a-string) |
 | [0621-task-scheduler](https://github.com/SASI-27247/aps/tree/master/0621-task-scheduler) |
+| [1603-design-parking-system](https://github.com/SASI-27247/aps/tree/master/1603-design-parking-system) |
 ## Two Pointers
 |  |
 | ------- |
@@ -119,11 +120,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0622-design-circular-queue](https://github.com/SASI-27247/aps/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/SASI-27247/aps/tree/master/0641-design-circular-deque) |
 | [0933-number-of-recent-calls](https://github.com/SASI-27247/aps/tree/master/0933-number-of-recent-calls) |
+| [1603-design-parking-system](https://github.com/SASI-27247/aps/tree/master/1603-design-parking-system) |
 ## Simulation
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/SASI-27247/aps/tree/master/0735-asteroid-collision) |
 | [0946-validate-stack-sequences](https://github.com/SASI-27247/aps/tree/master/0946-validate-stack-sequences) |
+| [1603-design-parking-system](https://github.com/SASI-27247/aps/tree/master/1603-design-parking-system) |
 ## Sliding Window
 |  |
 | ------- |
