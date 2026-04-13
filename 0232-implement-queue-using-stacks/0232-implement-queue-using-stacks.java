@@ -2,42 +2,45 @@ import java.util.Stack;
 
 class MyQueue {
 
-    private Stack<Integer> inStack;
-    private Stack<Integer> outStack;
+    private Stack<Integer> in;
+    private Stack<Integer> out;
 
+    // Initialize
     public MyQueue() {
-        inStack = new Stack<>();
-        outStack = new Stack<>();
+        in = new Stack<>();
+        out = new Stack<>();
     }
 
-    // Push element x to the back of the queue
+    // Push element to back of queue
     public void push(int x) {
-        inStack.push(x);
+        in.push(x);
     }
 
-    // Removes the element from the front of the queue and returns it
+    // Remove element from front
     public int pop() {
-        shiftStacksIfNeeded();
-        return outStack.pop();
+        if (out.isEmpty()) {
+            move();
+        }
+        return out.pop();
     }
 
-    // Returns the element at the front of the queue
+    // Get front element
     public int peek() {
-        shiftStacksIfNeeded();
-        return outStack.peek();
+        if (out.isEmpty()) {
+            move();
+        }
+        return out.peek();
     }
 
-    // Returns true if the queue is empty
+    // Check if empty
     public boolean empty() {
-        return inStack.isEmpty() && outStack.isEmpty();
+        return in.isEmpty() && out.isEmpty();
     }
 
-    // Move elements only when outStack is empty
-    private void shiftStacksIfNeeded() {
-        if (outStack.isEmpty()) {
-            while (!inStack.isEmpty()) {
-                outStack.push(inStack.pop());
-            }
+    // Helper function to transfer elements
+    private void move() {
+        while (!in.isEmpty()) {
+            out.push(in.pop());
         }
     }
 }
