@@ -1,4 +1,4 @@
-import java.util.*;
+import java.util.Stack;
 
 class Solution {
     public boolean isValid(String s) {
@@ -14,15 +14,14 @@ class Solution {
                 if (stack.isEmpty()) return false;
 
                 char top = stack.pop();
-                if ((ch == ')' && top != '(') ||
-                    (ch == '}' && top != '{') ||
-                    (ch == ']' && top != '[')) {
-                    return false;
-                }
+
+                if (ch == ')' && top != '(') return false;
+                if (ch == '}' && top != '{') return false;
+                if (ch == ']' && top != '[') return false;
             }
         }
 
-        // Stack must be empty for a valid string
+        // If stack is empty → valid
         return stack.isEmpty();
     }
 }
