@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0641-design-circular-deque](https://github.com/SASI-27247/aps/tree/master/0641-design-circular-deque) |
 | [0735-asteroid-collision](https://github.com/SASI-27247/aps/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/SASI-27247/aps/tree/master/0739-daily-temperatures) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/SASI-27247/aps/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0946-validate-stack-sequences](https://github.com/SASI-27247/aps/tree/master/0946-validate-stack-sequences) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/SASI-27247/aps/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/SASI-27247/aps/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
@@ -189,4 +190,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0933-number-of-recent-calls](https://github.com/SASI-27247/aps/tree/master/0933-number-of-recent-calls) |
+## Binary Search
+|  |
+| ------- |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/SASI-27247/aps/tree/master/0744-find-smallest-letter-greater-than-target) |
 <!---LeetCode Topics End-->
