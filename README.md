@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/SASI-27247/aps/tree/master/0739-daily-temperatures) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/SASI-27247/aps/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0946-validate-stack-sequences](https://github.com/SASI-27247/aps/tree/master/0946-validate-stack-sequences) |
+| [1314-matrix-block-sum](https://github.com/SASI-27247/aps/tree/master/1314-matrix-block-sum) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/SASI-27247/aps/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/SASI-27247/aps/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Dynamic Programming
@@ -197,4 +198,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/SASI-27247/aps/tree/master/0744-find-smallest-letter-greater-than-target) |
+## Matrix
+|  |
+| ------- |
+| [1314-matrix-block-sum](https://github.com/SASI-27247/aps/tree/master/1314-matrix-block-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [1314-matrix-block-sum](https://github.com/SASI-27247/aps/tree/master/1314-matrix-block-sum) |
 <!---LeetCode Topics End-->
