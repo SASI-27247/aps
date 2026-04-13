@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/SASI-27247/aps/tree/master/0020-valid-parentheses) |
 | [0344-reverse-string](https://github.com/SASI-27247/aps/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/SASI-27247/aps/tree/master/0387-first-unique-character-in-a-string) |
+| [0459-repeated-substring-pattern](https://github.com/SASI-27247/aps/tree/master/0459-repeated-substring-pattern) |
 | [1396-design-underground-system](https://github.com/SASI-27247/aps/tree/master/1396-design-underground-system) |
 ## Queue
 |  |
@@ -206,4 +207,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1314-matrix-block-sum](https://github.com/SASI-27247/aps/tree/master/1314-matrix-block-sum) |
+## String Matching
+|  |
+| ------- |
+| [0459-repeated-substring-pattern](https://github.com/SASI-27247/aps/tree/master/0459-repeated-substring-pattern) |
 <!---LeetCode Topics End-->
